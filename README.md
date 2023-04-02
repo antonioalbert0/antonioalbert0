@@ -1,7 +1,7 @@
 ## Pleasure my name is Albert, welcome to my profile
 I'm just a junior developer looking for my own evolution, I really like the backend, but in the future I also want to create android and desktop apps
 
-- 🌱 Studying: Javascript (fluent), Typescript, Kotlin
+- 🌱 Studying: Javascript (fluent), Typescript, Kotlin and Python
 - ♂️ Gender: Male
 - 🍰 Age: 17
 - 📚 Some recent projects: [Tomoko-Bot](https://github.com/Tomoko-Laboratory/tomoko-bot), [dotenvForJson](https://github.com/HarukaYamamoto0/dotenvForJson), [Timestamp-Calculator](https://github.com/HarukaYamamoto0/timestamp-calculator)
