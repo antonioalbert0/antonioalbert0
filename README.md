@@ -4,7 +4,7 @@ I'm just a junior developer looking for my own evolution, I really like the back
 - 🌱 Studying: Javascript (fluent), Kotlin and C
 - ♂️ Gender: Male
 - 🍰 Age: 17
-- 📚 Some recent projects: [jsonforenv](https://github.com/HarukaYamamoto0/jsonforenv.git), [Timestamp-Calculator](https://github.com/HarukaYamamoto0/timestamp-calculator)
+- 📚 Some recent projects: [jsonforenv](https://github.com/HarukaYamamoto0/jsonforenv.git), [timestamp-calculator](https://github.com/HarukaYamamoto0/timestamp-calculator)
 
 <div> 
   <a href="https://youtube.com/channel/UC91TMKN7AAh3XttXx_vpQMA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
