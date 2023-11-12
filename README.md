@@ -22,10 +22,22 @@ Transforming coffee into code since 2021. 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=bash,bots,c,css,discord,github,githubactions,html,instagram,jest,js,kotlin,linux,materialui,md,maven,mongodb,nodejs,stackoverflow,vscode,vim)](https://skillicons.dev)
 
-## Recent projects:
+## My social networks:
 
-- [jsonforenv](https://www.npmjs.com/package/jsonforenv): a package that converts `.json` file tokens into environment variables
-- [timestamp-calculator](https://harukayamamoto0.github.io/timestamp-calculator/): a simple website that helps you deal with timestamps.
-- [jesterly](https://github.com/jesterly-organization/jesterly): a meme bot for discord.
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</a>
+
+<a href="https://discord.com/users/822819247146663936" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</a>
+
+<a href="https://www.instagram.com/harukadev/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</a>
+
+<a href="mailto:harukayamamotodev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</a>
     
 ![github contribution grid snake animation](https://raw.githubusercontent.com/HarukaYamamoto0/HarukaYamamoto0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
