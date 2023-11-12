@@ -4,7 +4,7 @@ My real name is Albert, I'm a more backend-focused programmer, I'm proudly Brazi
 
 Transforming coffee into code since 2021. 🚀
 
-## My performance lately:
+## My performance lately
 
 <div style="display:flex;justify-content:center;">
   <a href="https://github.com/HarukaYamamoto0" target="_blank">
@@ -18,11 +18,11 @@ Transforming coffee into code since 2021. 🚀
   <a href="mailto: antonioalbert344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> -->
 
-## Some tools I use:
+## Some tools I use
 
 [![My Skills](https://skillicons.dev/icons?i=bash,bots,c,css,discord,github,githubactions,html,instagram,jest,js,kotlin,linux,materialui,md,maven,mongodb,nodejs,stackoverflow,vscode,vim)](https://skillicons.dev)
 
-## My social networks:
+## My social networks
 
 <a href="#" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
