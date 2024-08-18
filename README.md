@@ -1,8 +1,6 @@
-# Welcome to my profile!
+# Welcome to my profile! 🎉
 
-My real name is Albert, I'm a more backend-focused programmer, I'm proudly Brazilian, in love with a girl called Clarisse and I'm constantly exploring the world of programming.
-
-Transforming coffee into code since 2021. 🚀
+Let me introduce myself, my real name is Albert, I've been programming for about 4 years, I'm fluent in Javascript, I have more affinity with backend, but I'm always learning new technologies and I'm currently studying Android development with compose.
 
 ## My performance lately
 
@@ -20,7 +18,7 @@ Transforming coffee into code since 2021. 🚀
 
 ## Some tools I use
 
-[![My Skills](https://skillicons.dev/icons?i=bash,bots,c,css,discord,github,githubactions,html,instagram,jest,js,kotlin,linux,materialui,md,maven,mongodb,nodejs,stackoverflow,vscode,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,bots,githubactions,jest,kotlin,linux,materialui,md,maven,mongodb,nodejs,stackoverflow,vscode,vim)](https://skillicons.dev)
 
 ## My social networks
 
