@@ -2,7 +2,7 @@
 
 Let me introduce myself, my real name is Albert, I've been programming for about 4 years, I'm fluent in Javascript, I have more affinity with backend, but I'm always learning new technologies and I'm currently studying Android development with compose.
 
-## My performance lately
+## My performance lately 💪
 
 <div style="display:flex;justify-content:center;">
   <a href="https://github.com/HarukaYamamoto0" target="_blank">
@@ -16,11 +16,11 @@ Let me introduce myself, my real name is Albert, I've been programming for about
   <a href="mailto: antonioalbert344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> -->
 
-## Some tools I use
+## Some tools I use ⚒️
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,bots,githubactions,jest,kotlin,linux,materialui,md,maven,mongodb,nodejs,stackoverflow,vscode,vim)](https://skillicons.dev)
 
-## My social networks
+## My social networks 🌐
 
 <a href="https://www.linkedin.com/in/harukayamamoto0" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -38,7 +38,7 @@ Let me introduce myself, my real name is Albert, I've been programming for about
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </a>
 
-## Some projects I intend to do:
+## Todo List 📚
 > I won't necessarily do everything in that order.
 
 - [ ] Reformulate the Readmes of all my projects
