@@ -41,6 +41,7 @@ Let me introduce myself, my real name is Albert, I've been programming for about
 ## Some projects I intend to do:
 > I won't necessarily do everything in that order.
 
+- [ ] Reformulate the Readmes of all my projects
 - [ ] Linko, a link shortener app
 - [ ] A functional model of Infisical
 - [ ] A cloud-based .env file manager
