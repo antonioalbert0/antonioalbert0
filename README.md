@@ -37,5 +37,15 @@ Let me introduce myself, my real name is Albert, I've been programming for about
 <a href="mailto:harukayamamotodev@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </a>
+
+## Some projects I intend to do:
+> I won't necessarily do everything in that order.
+
+- [ ] Linko, a link shortener app
+- [ ] A functional model of Infisical
+- [ ] A cloud-based .env file manager
+- [ ] Return to Locart development 
+- [ ] Jesterly, Meme bot for discord
+- [ ] an app like TikTok, but for memes, which will share the same system as Jesterly
     
 ![github contribution grid snake animation](https://raw.githubusercontent.com/HarukaYamamoto0/HarukaYamamoto0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
