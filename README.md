@@ -21,7 +21,7 @@ Let me introduce myself, my real name is Albert, I've been programming for about
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,bots,jest,kotlin,linux,md,mongodb,nodejs,stackoverflow,vscode,vim,mint,idea,androidstudio)](https://github.com/HarukaYamamoto0?tab=repositories)
 
 ## What I'm learning
-[![My Skills](https://skillicons.dev/icons?i=ts,kotlin,materialui,githubactions,neovim,ktor)](https://github.com/HarukaYamamoto0?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ts,materialui,githubactions,neovim,ktor)](https://github.com/HarukaYamamoto0?tab=repositories)
 
 ## My social networks 🌐
 
