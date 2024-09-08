@@ -18,7 +18,10 @@ Let me introduce myself, my real name is Albert, I've been programming for about
 
 ## Some tools I use ⚒️
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,bots,githubactions,jest,kotlin,linux,materialui,md,maven,mongodb,nodejs,stackoverflow,vscode,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,bots,jest,kotlin,linux,md,mongodb,nodejs,stackoverflow,vscode,vim,mint,idea,androidstudio)](https://github.com/HarukaYamamoto0?tab=repositories)
+
+## What I'm learning
+[![My Skills](https://skillicons.dev/icons?i=ts,kotlin,materialui,githubactions,neovim,ktor)](https://github.com/HarukaYamamoto0?tab=repositories)
 
 ## My social networks 🌐
 
@@ -41,13 +44,13 @@ Let me introduce myself, my real name is Albert, I've been programming for about
 ## Todo List 📚
 > I won't necessarily do everything in that order.
 
-- [x] Reformulate the Readmes of all my projects
-- [ ] Linko, a link shortener app
+- [x] Reformulate the Readmes of all my projects (in progress)
+- [ ] Linko, a link shortener app (in progress)
 - [ ] A functional model of Infisical
 - [ ] A cloud-based .env file manager
 - [ ] Return to Locart development 
 - [ ] Jesterly, Meme bot for discord
 - [ ] an app like TikTok, but for memes, which will share the same system as Jesterly
-- [ ] try to recreate Lively for linux
+- [ ] try to recreate Lively as cross-platform
     
 ![github contribution grid snake animation](https://raw.githubusercontent.com/HarukaYamamoto0/HarukaYamamoto0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
