@@ -52,5 +52,6 @@ Let me introduce myself, my real name is Albert, I've been programming for about
 - [ ] Jesterly, Meme bot for discord
 - [ ] an app like TikTok, but for memes, which will share the same system as Jesterly
 - [ ] try to recreate Lively as cross-platform
+- [ ] Clock Json, a clock app with features you need
     
 ![github contribution grid snake animation](https://raw.githubusercontent.com/HarukaYamamoto0/HarukaYamamoto0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
