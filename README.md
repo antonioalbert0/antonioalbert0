@@ -45,7 +45,7 @@ Let me introduce myself, my real name is Albert, I've been programming for about
 > I won't necessarily do everything in that order.
 
 - [x] Reformulate the Readmes of all my projects (in progress)
-- [ ] Linko, a link shortener app (in progress)
+- [x] Linko, a link shortener app
 - [ ] A functional model of Infisical
 - [ ] A cloud-based .env file manager
 - [ ] Return to Locart development 
