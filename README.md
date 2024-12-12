@@ -55,5 +55,6 @@ Let me introduce myself, my real name is Albert, I've been programming for about
 - [ ] Clock Json, a clock app with features you need
 - [ ] Payme, an app that uses the Mercado Pago API
 - [ ] A temporary email service
+- [ ] a cli to generate licenses
     
 ![github contribution grid snake animation](https://raw.githubusercontent.com/HarukaYamamoto0/HarukaYamamoto0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
